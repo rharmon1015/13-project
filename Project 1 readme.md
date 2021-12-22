@@ -1,4 +1,3 @@
-# 13-project
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
@@ -38,9 +37,9 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
 | Jump Box | Gateway  | 10.0.0.8   | Linux            |
-| TODO     | Server   | 10.0.0.12  | Linux              |
-| TODO     | Server   | 10.0.0.13  |  linux           |
-| TODO     | Elk Server| 10.2.0.4  |  Linux                |
+| Web-1   | Server    | 10.0.0.12  | Linux              |
+| Web-2    | Server   | 10.0.0.13  |  linux           |
+|  Elk Serve | Server | 10.2.0.4  |  Linux                |
 
 ### Access Policies
 
